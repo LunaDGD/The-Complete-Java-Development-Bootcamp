@@ -6,6 +6,8 @@ public class WholeNumbers {
         long globalPopulation = 7800000000L;
         System.out.println("There are " + globalPopulation + " people on earth");
 
+        long dailyGoogleSeaches = 5000000000L;
+        System.out.println("There are " + dailyGoogleSeaches + " google seaches");
     }
     
 }
